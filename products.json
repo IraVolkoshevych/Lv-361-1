@@ -55,7 +55,14 @@
         "description": "Wow, this car is very fast",
         "price": 1000000
     },
-	{
+    {
+        "id": "37",
+        "title": "Bugatti Veyron",
+        "image": "buggatilego.jpg",
+        "description": "Super Lego Discription",
+        "price": "25000"
+    },
+	  {
         "id": "9",
         "title": "Daewoo Lanos",
         "image": "1200px-Daewoo_Lanos_front_20080110.jpg",
