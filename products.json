@@ -56,6 +56,11 @@
         "price": 1000000
     },
     {
+        "id": "33",
+        "title": "IPhone Xs",
+        "image": "tesla-x.jpg",
+        "description": "Wow, this IPhone is perfect",
+        "price": 1500},
 
         "id": "22",
         "title": "Lenovo X1 Carbon",
