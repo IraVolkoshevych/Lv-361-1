@@ -54,5 +54,12 @@
         "image": "tesla-x.jpg",
         "description": "Wow, this car is very fast",
         "price": 1000000
+    },
+	{
+        "id": "9",
+        "title": "Daewoo Lanos",
+        "image": "1200px-Daewoo_Lanos_front_20080110.jpg",
+        "description": "Wow, this car is very fast (not)",
+        "price": 4000
     }
 ]
