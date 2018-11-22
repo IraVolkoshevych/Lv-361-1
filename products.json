@@ -54,5 +54,12 @@
         "image": "tesla-x.jpg",
         "description": "Wow, this car is very fast",
         "price": 1000000
+    },
+    {
+        "id": "10",
+        "title": "Lenovo X1 Extreme",
+        "image": "lenovo-x1-e.jpg",
+        "description": "Made cool",
+        "price": 0.009
     }
 ]
