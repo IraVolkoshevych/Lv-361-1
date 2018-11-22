@@ -75,6 +75,16 @@
         "image": "1200px-Daewoo_Lanos_front_20080110.jpg",
         "description": "Wow, this car is very fast (not)",
         "price": 4000
+<<<<<<< HEAD
+    },
+	{
+        "id": "91",
+        "title": "Huawei p20 pro",
+        "image": "huawei_p20_pro_twilight_522_702.jpg",
+        "description": "Wow, this phone is very (complete sentences)",
+        "price": 400
+=======
 
+>>>>>>> 2e934b35000e5816e70b688fb1204fbff6b519c1
     }
 ]
