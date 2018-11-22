@@ -56,6 +56,14 @@
         "price": 1000000
     },
     {
+
+        "id": "22",
+        "title": "Lenovo X1 Carbon",
+        "image": "tesla-x.jpg",
+        "description": "This laptop will make you feel fast ",
+        "price": 50000
+    },
+    {
         "id": "10",
         "title": "Lenovo X1 Extreme",
         "image": "lenovo-x1-e.jpg",
@@ -67,15 +75,18 @@
         "title": "Bugatti Veyron",
         "image": "buggatilego.jpg",
         "description": "Super Lego Discription",
-        "price": "25000"
+        "price": 25000
     },
 	  {
         "id": "9",
         "title": "Daewoo Lanos",
         "image": "1200px-Daewoo_Lanos_front_20080110.jpg",
         "description": "Wow, this car is very fast (not)",
+
+        "price": 400
+
         "price": 4000
-<<<<<<< HEAD
+
     },
 	{
         "id": "91",
@@ -83,8 +94,6 @@
         "image": "huawei_p20_pro_twilight_522_702.jpg",
         "description": "Wow, this phone is very (complete sentences)",
         "price": 400
-=======
 
->>>>>>> 2e934b35000e5816e70b688fb1204fbff6b519c1
     }
 ]
